@@ -1,0 +1,10 @@
+outfiles : -193.128362 
+outfiles : -271.201381 
+outfiles : -466.383624 
+outfiles : -115.048009 
+outfiles : -388.311086 
+outfiles : -154.091302 
+outfiles : -310.238533 
+outfiles : -349.273977 
+outfiles : -232.165580 
+outfiles : -427.346518 
